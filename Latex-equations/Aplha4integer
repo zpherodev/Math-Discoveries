@@ -1,0 +1,1 @@
+a(n) = \left\lfloor 10000 \cdot \frac{6}{n^2} \sum_{j=1}^{n-1} \frac{j^3}{\sqrt{n^2 - j^2}} \right\rfloor
